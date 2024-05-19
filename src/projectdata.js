@@ -1,0 +1,42 @@
+let projects = [{
+  "idProject": 1,
+  "titleProject": "Tempsoft",
+  "descriptionProject": "Twitterlist"
+}, {
+  "idProject": 2,
+  "titleProject": "kaggle",
+  "descriptionProject": "Edgewire"
+}, {
+  "idProject": 3,
+  "titleProject": "Treeflex",
+  "descriptionProject": "Tagcat"
+}, {
+  "idProject": 4,
+  "titleProject": "Trippledex",
+  "descriptionProject": "Jamia"
+}, {
+  "idProject": 5,
+  "titleProject": "Tres-Zap",
+  "descriptionProject": "Tagpad"
+}, {
+  "idProject": 6,
+  "titleProject": "Fix San",
+  "descriptionProject": "Meezzy"
+}, {
+  "idProject": 7,
+  "titleProject": "Stim",
+  "descriptionProject": "Twitterworks"
+}, {
+  "idProject": 8,
+  "titleProject": "Konklux",
+  "descriptionProject": "Topicblab"
+}, {
+  "idProject": 9,
+  "titleProject": "Overhold",
+  "descriptionProject": "Meedoo"
+}, {
+  "idProject": 10,
+  "titleProject": "Rubix",
+  "descriptionProject": "Ntag"
+}]
+export {projects}
